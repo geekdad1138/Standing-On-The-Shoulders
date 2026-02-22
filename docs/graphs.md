@@ -22,6 +22,7 @@ graph TD
     %% Era 5: The AI Birth & Struggle
     Turing --> Dartmouth[1956: Dartmouth Founders<br/>Artificial Intelligence]
     Shannon --> Dartmouth
+<<<<<<< Updated upstream
     
     %% Era 6: Neural Networks
     Dartmouth --> Rosenblatt[1958: Frank Rosenblatt<br/>The Perceptron]
@@ -33,3 +34,20 @@ graph TD
     %% Styling
     classDef highlight fill:#f96,stroke:#333,stroke-width:2px;
     class Backprop highlight;
+=======
+    Dartmouth --> Rosenblatt
+    Rosenblatt --> Minsky
+    Minsky --> Backprop
+
+    %% Clickable Links (Fixed for GitHub)
+    click Babbage "/docs/lineage/1837-Charles-Babbage.md" _top
+    click Ada "/docs/lineage/1843-Ada-Lovelace.md" _top
+    click Turing "/docs/lineage/1936-Alan-Turing.md" _top
+    click Shannon "/docs/lineage/1948-Claude-Shannon.md" _top
+    click Transistor "/docs/lineage/1947-The-Transistor-Team.md" _top
+    click Intel "/docs/lineage/1971-Intel-4004-Team.md" _top
+    click Dartmouth "/docs/lineage/1956-The-Dartmouth-Founders.md" _top
+    click Rosenblatt "/docs/lineage/1958-Frank-Rosenblatt.md" _top
+    click Minsky "/docs/lineage/1969-Minsky-and-Papert.md" _top
+    click Backprop "/docs/lineage/1986-The-Backprop-Team.md" _top
+>>>>>>> Stashed changes

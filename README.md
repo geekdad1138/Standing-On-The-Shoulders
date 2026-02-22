@@ -30,6 +30,16 @@ Think of it as a **dependency graph for thought**. From Alan Turing to John McCa
 
 The history of AI is a chain of hand-offs. You can browse the full directory in the [lineage folder](./docs/lineage/), or follow the primary thread below:
 
+---
+
+## Visualizing the Map
+
+Because this project is a **dependency graph for thought**, we maintain a live-rendered map of the connections between every figure in the lineage.
+
+👉 **[Open the Visual Dependency Graph](./docs/graphs.md)**
+
+---
+
 ### The Timeline of Influence
 
 | Era | Key Figure / Group | The "Shoulder" |
@@ -42,7 +52,15 @@ The history of AI is a chain of hand-offs. You can browse the full directory in 
 | **1956** | [The Dartmouth Founders](./docs/lineage/1956-The-Dartmouth-Founders.md) | The Formal Birth of AI |
 | **1958** | [Frank Rosenblatt](./docs/lineage/1958-Frank-Rosenblatt.md) | The First Neural Network |
 
+---
 
+## Visualizing the Map
+
+Because this project is a **dependency graph for thought**, we maintain a live-rendered map of the connections between every figure in the lineage.
+
+👉 **[Open the Visual Dependency Graph](./docs/graphs.md)**
+
+----
 
 ## Why This Matters
 

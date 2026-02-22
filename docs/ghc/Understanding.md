@@ -6,9 +6,9 @@ Can you understand the context and the concept?
 
 GitHub Copilot: I'll read both files to understand the context and concept. 
 
-Read [](file:///c%3A/Users/dave/Documents/GitHub/Standing-On-The-Shoulders/docs/working/Chit-Chat.md)
+Read (Chit-Chat.md)
 
-Read [](file:///c%3A/Users/dave/Documents/GitHub/Standing-On-The-Shoulders/docs/spec/Concept.md)
+Read (Concept.md)
 
 Perfect! I can see the context clearly now:
 
@@ -34,7 +34,7 @@ It's a beautiful concept because it honors individuals while simultaneously show
 
 User: Ok, can you generate a readme for this repo? I know we don't have much content yet, but I think you can probably generate something based on the concept ideals and purpose.
 
-GitHub Copilot: Created [](file:///c%3A/Users/dave/Documents/GitHub/Standing-On-The-Shoulders/README.md)
+GitHub Copilot: Created (README.md)
 
 Done! I've created a README that captures the core concept: challenging the lone genius myth while celebrating the actual lineage of ideas and the people behind them. It emphasizes the "stacked insights" framing and positions the project as both a love letter and an educational resource—not academic or cold, but personal and connected.
 

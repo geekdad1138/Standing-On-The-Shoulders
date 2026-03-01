@@ -31,3 +31,4 @@ graph TD
     Dartmouth --> Rosenblatt
     Rosenblatt --> Minsky
     Minsky --> Backprop
+    Backprop --> LeCun

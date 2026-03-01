@@ -23,6 +23,7 @@ graph TD
     Minsky[1969: Minsky & Papert]
     Backprop[1986: The Backprop Team]
     LSTM[1997: Hochreiter & Schmidhuber]
+    AlexNet[2012: The ImageNet Moment]
     
     %% Lineage D: The Visual/Biological Path
     Hubel[1962: Hubel & Wiesel]
@@ -42,13 +43,16 @@ graph TD
     Rosenblatt --> Minsky
     Minsky --> Backprop
     Backprop --> LSTM
+    Backprop --> AlexNet
+    Intel --> AlexNet
     
     %% The Visual Logic Flow
     Hubel --> Fukushima
     Fukushima --> LeCun
     Backprop --> LeCun
+    LeCun --> AlexNet
 
-    %% Clickable Links (Fixed for geekdad1138 repo)
+    %% Clickable Links (Cleaned Syntax for GitHub)
     click Boole "[https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1847-George-Boole.md](https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1847-George-Boole.md)" _top
     click Babbage "[https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1837-Charles-Babbage.md](https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1837-Charles-Babbage.md)" _top
     click Ada "[https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1843-Ada-Lovelace.md](https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1843-Ada-Lovelace.md)" _top
@@ -64,3 +68,4 @@ graph TD
     click Hubel "[https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1962-Hubel-and-Wiesel.md](https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1962-Hubel-and-Wiesel.md)" _top
     click Fukushima "[https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1980-Kunihiko-Fukushima.md](https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1980-Kunihiko-Fukushima.md)" _top
     click LeCun "[https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1989-Yann-LeCun.md](https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1989-Yann-LeCun.md)" _top
+    click AlexNet "[https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/2012-The-ImageNet-Moment.md](https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/2012-The-ImageNet-Moment.md)" _top

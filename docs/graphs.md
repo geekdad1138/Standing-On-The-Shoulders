@@ -53,4 +53,4 @@ graph TD
     LeCun --> AlexNet
 
     %% Clickable Links (Cleaned Syntax for GitHub)
-    click Boole "[https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1847-George-Boole.md](https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1847-George-Boole.md)" _top
+    click Babbage "https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1837-Charles-Babbage.md"

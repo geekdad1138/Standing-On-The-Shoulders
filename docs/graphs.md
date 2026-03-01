@@ -24,6 +24,7 @@ graph TD
     Backprop[1986: The Backprop Team]
     LSTM[1997: Hochreiter & Schmidhuber]
     AlexNet[2012: The ImageNet Moment]
+    Transformer[2017: The Transformer Team]
     
     %% Lineage D: The Visual/Biological Path
     Hubel[1962: Hubel & Wiesel]
@@ -49,6 +50,8 @@ graph TD
     Fukushima --> LeCun
     Backprop --> LeCun
     LeCun --> AlexNet
+    LSTM --> Transformer
+    AlexNet --> Transformer
 
     %% Clickable Links (Stripped for GitHub Parser)
     click Boole "https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1847-George-Boole.md"
@@ -67,3 +70,4 @@ graph TD
     click Fukushima "https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1980-Kunihiko-Fukushima.md"
     click LeCun "https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/1989-Yann-LeCun.md"
     click AlexNet "https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/2012-The-ImageNet-Moment.md"
+    click Transformer "https://github.com/geekdad1138/Standing-On-The-Shoulders/blob/main/docs/lineage/2017-The-Transformer-Team.md"

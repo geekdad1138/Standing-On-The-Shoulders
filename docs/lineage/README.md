@@ -43,6 +43,7 @@ Every file in this folder follows a strict **"Inheritance"** structure to ensure
 | **1989** | **[Yann LeCun](./1989-Yann-LeCun.md)** | Fukushima / Backprop | CNNs (Machine Vision) |
 | **1997** | **[The LSTM Team](./1997-LSTM-Team.md)** | Backprop | Long Short-Term Memory (Machine Memory) |
 | **2012** | **[The ImageNet Moment](./2012-The-ImageNet-Moment.md)** | LeCun / Intel / Li | AlexNet (The Deep Learning Big Bang) |
+| **2017** | **[The Transformer Team](https://www.google.com/search?q=./2017-The-Transformer-Team.md)** | LSTM / Attention | Self-Attention (Foundation for LLMs) |
 
 ---
 
@@ -52,7 +53,7 @@ Every file in this folder follows a strict **"Inheritance"** structure to ensure
 - **The Physical Era:** The Transistor Team & Intel
 - **The Visual/Biological Branch:** Hubel/Wiesel & Fukushima
 - **The Connectionist Era:** Rosenblatt, Minsky, The Backprop Team, & LeCun
-- **The Modern Era:** The LSTM Team & The ImageNet Moment
+- **The Modern Era:** The LSTM Team, The ImageNet Moment, & **The Transformer Team**
 
 ---
 *Found a missing link? Connections are what make this project work. Feel free to suggest a new "shoulder" to add to the chain.*

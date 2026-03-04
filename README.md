@@ -65,3 +65,12 @@ We are actively building this map. Content is being added, and connections are b
 ---
 
 *Standing on the shoulders of giants. GitHub edition.*
+
+---
+
+## 🏛️ The Computing History Trilogy
+This repository is part of a three-part series mapping the evolution of technology and the human spirit.
+
+* **[The First Clicks](https://github.com/geekdad1138/The-First-Clicks)** — *The Technical Milestones.* Trace the first time the machines actually worked.
+* **[Standing on the Shoulders](https://github.com/geekdad1138/Standing-on-the-Shoulders)** — *The Intellectual Lineage.* Map the dependency graph of ideas from 1837 to today.
+* **[The Button Pressers](https://github.com/geekdad1138/The-Button-Pressers)** — *The Human Stories.* The intimate moments and accidental choices that changed everything.

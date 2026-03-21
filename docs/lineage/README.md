@@ -31,6 +31,7 @@ Every file in this folder follows a strict **"Inheritance"** structure to ensure
 | **1843** | **[Ada Lovelace](./1843-Ada-Lovelace.md)** | Babbage's Engine | The first algorithm (Universal Computation) |
 | **1847** | **[George Boole](./1847-George-Boole.md)** | Aristotelian Logic | Boolean Algebra (0 and 1 Logic) |
 | **1936** | **[Alan Turing](./1936-Alan-Turing.md)** | Lovelace / Hilbert | The Universal Turing Machine (Software) |
+| **1945** | **[John von Neumann](./1945-John-Von-Neumann.md)** | Lovelace / Hilbert | The Architect of the Software (Software) |
 | **1947** | **[Transistor Team](./1947-The-Transistor-Team.md)** | Solid-State Physics | Solid-state logic (Physical Gates) |
 | **1948** | **[Claude Shannon](./1948-Claude-Shannon.md)** | Boole / Turing | Information Theory (The Bit) |
 | **1956** | **[Dartmouth Founders](./1956-The-Dartmouth-Founders.md)** | Turing / Shannon | Coining "Artificial Intelligence" |
@@ -43,7 +44,7 @@ Every file in this folder follows a strict **"Inheritance"** structure to ensure
 | **1989** | **[Yann LeCun](./1989-Yann-LeCun.md)** | Fukushima / Backprop | CNNs (Machine Vision) |
 | **1997** | **[The LSTM Team](./1997-LSTM-Team.md)** | Backprop | Long Short-Term Memory (Machine Memory) |
 | **2012** | **[The ImageNet Moment](./2012-The-ImageNet-Moment.md)** | LeCun / Intel / Li | AlexNet (The Deep Learning Big Bang) |
-| **2017** | **[The Transformer Team](https://www.google.com/search?q=./2017-The-Transformer-Team.md)** | LSTM / Attention | Self-Attention (Foundation for LLMs) |
+| **2017** | **[The Transformer Team](./2017-The-Transformer-Team.md)** | LSTM / Attention | Self-Attention (Foundation for LLMs) |
 
 ---
 
